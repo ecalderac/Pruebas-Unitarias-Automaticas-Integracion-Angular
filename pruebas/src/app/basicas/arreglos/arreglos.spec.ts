@@ -1,6 +1,7 @@
 import { obtenerRobots } from "./arreglos";
 
 
+//Como saltar pruebas en archivo spec, solo se debe de agregar una x adelante del describe o del it: xdescribe, xit.
 
 describe('Pruebas de arreglos', () => {
 
